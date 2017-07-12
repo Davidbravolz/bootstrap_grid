@@ -1,0 +1,19 @@
+div{
+  border: 1px solid black;
+}
+
+#segunda{
+  border-color: red;
+}
+
+#tercero{
+  border-color: blue;
+}
+
+#cuarta{
+  border: 1px solid green;
+}
+
+.tamanio{
+  height: 200px
+}
